@@ -5,7 +5,7 @@ Prajwal Amin
 
 <br/>
 
-# Index
+## Index
 
 - [Introduction](#introduction)
 - [Data Exploration](#data-exploration)
