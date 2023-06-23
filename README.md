@@ -3,6 +3,23 @@ Can I eat that mushroom ?
 Prajwal Amin
 
 
+<br/>
+
+# Index
+
+- [Introduction](#introduction)
+- [Data Exploration](#data-exploration)
+- [Model Training](#model-training)
+    - [Logistic Regression](#logistic-regression)
+    - [Decision Trees](#decision-trees)
+    - [Random Forests](#random-forests)
+- [Model Selection](#model-selection)
+    - [Cross-Validation](#cross-validation)
+    - [Statistical Tests](#statistical-tests)
+- [Conclusion](#conclusion) 
+
+
+<br/> 
 
 
 
