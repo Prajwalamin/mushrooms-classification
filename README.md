@@ -11,7 +11,7 @@ Prajwal Amin
 Mushrooms are now a staple of the human diet and are enjoyed in many different culinary traditions around the world. Though it has become a concern when consuming them because they are believed to have negative effects on human health. Therefore, it is essential to distinguish between edible and poisonous mushrooms in order to ensure the safety of those who solely depend on them. In this analysis, we will apply different models such as logistic regression, decision trees and random forests for predicting the edibility of the mushrooms. Additionally, will assess and contrast these models using various metrics and report the model that accurately categorizes the mushrooms' edibility. \
 
 
-![Mushrooms (Hans Veth, 2019)](mushy.jpg){ width=70% }
+![](./mushy.jpg)
 
 # Data Exploration
 
